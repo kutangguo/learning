@@ -13,7 +13,7 @@ public class FirstGit {
 		list.add("小王");
 		for (String string : list) {
 			if (string.equalsIgnoreCase("小李")) {
-				System.err.println("我是小李");
+				System.err.println("我很懵逼");
 			}
 		}
 	}
